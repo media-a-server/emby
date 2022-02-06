@@ -17,9 +17,10 @@ Stream The Lastest And Old Movies And TV Shows In 1080p Using The Emby App, Use 
 - Request Media
 - Stream Trailers In 1080p
 - Sign In On 4 Devices Per Account
-- Account Required Before Purchase (https://emby.media/community/index.php?app=core&module=global&section=register)
 
-🔶Our Website Link: https://a-network.ca/cart.php?gid=1
+🔶 Account Required Before Purchase (https://emby.media/community/index.php?app=core&module=global&section=register)
+
+🔶 Our Website Link: https://a-network.ca/cart.php?gid=1
 
 
 
