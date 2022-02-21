@@ -20,7 +20,8 @@ Stream The Lastest And Old Movies And TV Shows In 1080p Using The Emby App, Use 
 
 🔶 Account Required Before Purchase (https://emby.media/community/index.php?app=core&module=global&section=register)
 
-🔶 Our Website Link: https://a-network.ca/cart.php?gid=1
+__________________________________________________________________________________________________________________________________
+>🔶 Our Website Link: https://a-network.ca/cart.php?gid=1
 
 
 __________________________________________________________________________________________________________________________________
@@ -32,11 +33,11 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________________________________________________________
 
-Android TV App: https://play.google.com/store/apps/details?id=tv.emby.embyatv&hl=en_CA&gl=US
+>Android TV App: https://play.google.com/store/apps/details?id=tv.emby.embyatv&hl=en_CA&gl=US
 __________________________________________________________________________________________________________________________________
-Android App: https://play.google.com/store/apps/details?id=com.mb.android&hl=en_CA&gl=US
+>Android App: https://play.google.com/store/apps/details?id=com.mb.android&hl=en_CA&gl=US
 __________________________________________________________________________________________________________________________________
-iOS App: https://apps.apple.com/us/app/emby/id992180193
+>iOS App: https://apps.apple.com/us/app/emby/id992180193
 
 __________________________________________________________________________________________________________________________________
 
